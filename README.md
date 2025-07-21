@@ -23,9 +23,6 @@ Toolkit pensato per tecnici informatici, da usare direttamente da chiavetta USB 
 - [PingPlotter Free](https://www.pingplotter.com/)
 - [Wireshark Portable](https://portableapps.com/apps)
 
-### 🛠️ Script personali
-Aggiungi i tuoi script nella cartella `/script/` (es. quelli dai repo precedenti).
-
 ---
 
 ## ✅ Consigli
