@@ -4,20 +4,6 @@ Toolkit pensato per tecnici informatici, da usare direttamente da chiavetta USB 
 
 ---
 
-## 🗂️ Struttura consigliata
-
-USB-TOOLKIT/
-├── diagnostica/
-├── pulizia/
-├── recupero/
-├── rete/
-├── script/
-
-
-Puoi usare sottocartelle per tenere ordinati i tool portable.
-
----
-
 ## 💾 Software portable consigliati
 
 ### 🔍 Diagnostica
