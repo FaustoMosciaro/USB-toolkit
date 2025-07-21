@@ -60,7 +60,7 @@ Aggiungi i tuoi script nella cartella `/script/` (es. quelli dai repo precedenti
 Scarica l’ultima versione completa del USB Toolkit:
 
 - **Versione v1.0 (ZIP)**  
-  [Scarica USB-TOOLKIT.zip](https://github.com/TUO_USERNAME/usb-toolkit/releases/download/v1.0/USB-TOOLKIT.zip)
+  [Scarica USB-TOOLKIT.zip](https://github.com/FaustoMosciaro/USB-toolkit/releases/tag/v1.0)
 
 - **Scarica sempre l’ultima versione**  
-  [usb-toolkit-latest.zip](https://github.com/TUO_USERNAME/usb-toolkit/releases/latest/download/USB-TOOLKIT.zip)
+  [usb-toolkit-latest.zip](https://github.com/FaustoMosciaro/USB-toolkit/releases/tag/v1.0)
