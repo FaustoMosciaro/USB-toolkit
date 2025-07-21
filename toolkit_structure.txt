@@ -1,0 +1,16 @@
+USB-TOOLKIT/
+├── diagnostica/
+│   ├── cpu-z/
+│   ├── speccy/
+├── pulizia/
+│   ├── ccleaner/
+│   ├── bleachbit/
+├── recupero/
+│   ├── recuva/
+├── rete/
+│   ├── pingplotter/
+│   ├── wireshark/
+├── script/
+│   ├── cleanup-temp.bat
+│   ├── flush-dns.bat
+├── portable-launcher.exe (facoltativo)
